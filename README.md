@@ -1,2 +1,2 @@
-# RiwiProyecto
-Riwi proyecto fundamentos de programacion
+# InventarioRiwi
+Proyecto 1 de un inventario en terminal
